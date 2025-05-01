@@ -1,6 +1,6 @@
 ![title](https://cdn.discordapp.com/attachments/1027004645912088686/1300262386011476019/hud.jpg?ex=67203336&is=671ee1b6&hm=19669587a83114d4410f36a00714c6b553693688ae5788517dd80ce8461979bc&)
 
-# qbx_hud
+# qboverx_hud
 
 Shows UI elements such as health, hunger, thirst, etc.
 
